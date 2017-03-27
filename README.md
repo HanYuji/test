@@ -2,6 +2,7 @@
 ## test
 
 * java
-* spring
+* servlet
 * node.js
-
+* angular.js
+* spring
